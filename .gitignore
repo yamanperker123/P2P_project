@@ -1,0 +1,36 @@
+# Eclipse metadata
+.settings/
+.project
+.classpath
+
+# Java build output
+bin/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Compiled class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Backup files
+*~
+*.bak
+*.tmp
+
+# IDEs
+/.idea/
+*.iml
+.vscode/
+
+# Maven/Gradle (if added later)
+target/
+build/
